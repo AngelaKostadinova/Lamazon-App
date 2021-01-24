@@ -1,0 +1,9 @@
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.deps.json
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.csprojAssemblyReference.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.AssemblyInfoInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.AssemblyInfo.cs
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb

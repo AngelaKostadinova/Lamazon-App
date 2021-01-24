@@ -1,0 +1,16 @@
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Services.deps.json
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Services.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Services.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.csprojAssemblyReference.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.AssemblyInfoInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.AssemblyInfo.cs
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.csproj.CopyComplete
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.pdb

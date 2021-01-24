@@ -1,0 +1,9 @@
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.deps.json
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.csprojAssemblyReference.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.AssemblyInfoInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.AssemblyInfo.cs
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.deps.json
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.runtimeconfig.json
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.runtimeconfig.dev.json
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.csprojAssemblyReference.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Angela\Documents\GitHub\Lamazon-App\Lamazon-App\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.genruntimeconfig.cache
